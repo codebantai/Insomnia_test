@@ -1,0 +1,49 @@
+_id: req_1de68bbc00424d9693a7520ca62219f7
+type: Request
+parentId: fld_e53e2e99534b4dcc89a5c81508eed151
+modified: 1647014080691
+created: 1647013411777
+url: "{{ _.qa }}/api/core/feeds"
+name: Get all feeds
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_1ce8bb2007bd4afcb058de61e651f945
+    name: skip
+    value: "0"
+    description: ""
+  - id: pair_68ed271df3c24482a4b591ac82d4587e
+    name: limit
+    value: "10"
+    description: ""
+  - id: pair_65f531dc82dd4a14a6c3d54f52309157
+    name: search
+    value: "null"
+    description: ""
+  - id: pair_3ea383b05a564214b3bd2facfda08afd
+    name: user_id
+    value: "103660"
+    description: ""
+  - id: pair_c6e25725a8984393bbbdd27d307976eb
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - id: pair_72e9088074fd4a8ea0d3f120268b4e7e
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: "103660"
+  prefix: x-access-token
+  disabled: true
+metaSortKey: -1647013411777
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

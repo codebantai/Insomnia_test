@@ -1,0 +1,13 @@
+_id: fld_e53e2e99534b4dcc89a5c81508eed151
+type: RequestGroup
+parentId: wrk_5975d7e638f248528d7761a8ec02c2ef
+modified: 1647013472154
+created: 1647013303613
+name: Feeds
+description: ""
+environment:
+  qa: https://stg3web.1veda.in/
+environmentPropertyOrder:
+  "&":
+    - qa
+metaSortKey: -1647013303613

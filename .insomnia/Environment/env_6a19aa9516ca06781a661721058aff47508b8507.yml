@@ -1,0 +1,14 @@
+_id: env_6a19aa9516ca06781a661721058aff47508b8507
+type: Environment
+parentId: wrk_5975d7e638f248528d7761a8ec02c2ef
+modified: 1647013522390
+created: 1646892817114
+name: Base Environment
+data:
+  qa: https://stg3web.1veda.in/
+dataPropertyOrder:
+  "&":
+    - qa
+color: null
+isPrivate: false
+metaSortKey: 1646892817114
