@@ -1,14 +1,18 @@
 _id: req_c8756491a8b74de69e782d5b85143896
 type: Request
 parentId: fld_e53e2e99534b4dcc89a5c81508eed151
-modified: 1647018349122
+modified: 1647019503859
 created: 1647018347573
-url: https://bimaplan.napses.in/api/
+url: "{{ _.bimaplanQa }}api/"
 name: BimaTest
 description: ""
 method: GET
 body: {}
-parameters: []
+parameters:
+  - id: pair_afa9a266b851404aafbef699f70e6dcb
+    name: ""
+    value: ""
+    description: ""
 headers: []
 authentication: {}
 metaSortKey: -1647018347648

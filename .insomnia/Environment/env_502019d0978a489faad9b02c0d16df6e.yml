@@ -1,14 +1,16 @@
 _id: env_502019d0978a489faad9b02c0d16df6e
 type: Environment
 parentId: env_6a19aa9516ca06781a661721058aff47508b8507
-modified: 1647013541300
+modified: 1647019578473
 created: 1647013527545
 name: qa
 data:
   qa: https://stg3web.1veda.in/
+  bimaplanQa: https://bimaplan.napses.in/
 dataPropertyOrder:
   "&":
     - qa
+    - bimaplanQa
 color: null
 isPrivate: false
 metaSortKey: 1647013527545
